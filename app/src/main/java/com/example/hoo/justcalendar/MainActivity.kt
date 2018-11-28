@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         adapter.updateFragments(fragments)
         viewPager.adapter = adapter
         //viewPager.setBackgroundResource(R.drawable.bg1)
-       // Glide.with(this).load(R.drawable.bg1).into(viewPager)
+       //   Glide.with(this).load(R.drawable.bg1).into(viewPager)
     }
 }
 
